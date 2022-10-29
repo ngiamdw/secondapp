@@ -12,7 +12,7 @@ on:
 #cannot be tab must be space
  jobs:
    release and deploy:
-  #OS that job will be running on
+ 
     runs-on: ubuntu-latest
     # array of steps to perform task
     steps:
